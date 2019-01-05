@@ -1,7 +1,5 @@
 ###############################################################################
-# Decision tree modeling examples
-# Data Mining
-# Matthew A. Lanham
+# Decision tree
 ###############################################################################
 # Load in dataset
 library(ISLR)
